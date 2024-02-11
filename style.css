@@ -85,6 +85,38 @@ header {
     border-style: none;
     text-align: center;
     padding: 5px 0;
-
 }
+
+.info {
+    width: 1000px;
+    margin: 0 auto 80px;
+}
+
+.info h2 {
+    text-align: center;
+    margin: 35px 0;
+}
+
+.info-blocks {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.block {
+    width: 125px;
+    height: 125px;
+    border: 3px solid #3882f6;
+    border-radius: 10px;
+}
+
+.info-blocks p {
+    width: 125px;
+    text-align: center;
+    font-size: 14px;
+}
+
+
+
+
 
