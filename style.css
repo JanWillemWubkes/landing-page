@@ -136,6 +136,31 @@ header {
     text-align: right;
 }
 
+.call-to-action {
+    display: flex;
+    padding: 50px 75px;
+    justify-content: space-between;
+    width: 1000px;
+    color: white;
+    background-color: #3882f6;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+
+.sign-up {
+    border-radius: 5px;
+    border: 1px solid white;
+    padding:10px 20px;
+    color: white;
+    background-color: #3882f6;
+}
+
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    color: white;
+    padding: 25px 0;
+}
 
 
 
